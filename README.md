@@ -77,7 +77,7 @@ Después de tener una idea más sólida, proseguimos a elaborar los wireframes p
 
 Elaboramos un prototipo de alta fidelidad para luego testearlo e iterarlo. Como resultado de ello, tenemos el siguiente prototipo interactivo.
 
-[Ingresa al prototipo interactivo](https://www.figma.com/proto/TFAyGetNT9M6HLdxmSv8i1fI/WEB-AMABLE?node-id=44%3A0&scaling=scale-down)
+[Ingresa al prototipo interactivo](https://www.figma.com/proto/D9GU9MCxeT8x18ZYl136Cr/Amable-website?scaling=contain)
 
 ![Prototipo](img/prototype-amable.jpg)
 
